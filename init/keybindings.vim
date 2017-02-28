@@ -8,3 +8,6 @@ map \|          :NERDTreeFind<CR>
 
 " CtrlP
 map <leader>f   :CtrlP<CR>
+
+" NERDCommenter
+map <leader>/   <plug>NERDCommenterToggle
