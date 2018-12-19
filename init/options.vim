@@ -4,6 +4,7 @@ set guioptions-=rL              " Remove scrollbars
 set guicursor=a:blinkon0        " Turn off the blinking cursor
 
 set number                      " Line numbers
+set ruler                       " Column numbers
 
 set expandtab                   " Use soft tabs
 set tabstop=2                   " Tab settings
