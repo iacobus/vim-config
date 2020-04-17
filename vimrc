@@ -22,7 +22,9 @@ Plugin 'scrooloose/nerdcommenter'
 Plugin 'pangloss/vim-javascript'
 Plugin 'mxw/vim-jsx'
 Plugin 'Vimjas/vim-python-pep8-indent'
+Plugin 'ngmy/vim-rubocop'
 Plugin 'vim-python/python-syntax'
+Plugin 'dense-analysis/ale'
 Plugin 'chriskempson/base16-vim'
 
 " All of your Plugins must be added before the following line
