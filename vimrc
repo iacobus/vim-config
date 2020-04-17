@@ -19,6 +19,8 @@ Plugin 'junegunn/fzf.vim'
 " END fzf
 Plugin 'mileszs/ack.vim'
 Plugin 'scrooloose/nerdcommenter'
+Plugin 'pangloss/vim-javascript'
+Plugin 'mxw/vim-jsx'
 Plugin 'Vimjas/vim-python-pep8-indent'
 Plugin 'vim-python/python-syntax'
 Plugin 'chriskempson/base16-vim'
