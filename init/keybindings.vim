@@ -6,8 +6,9 @@ map \           :NERDTreeToggle<CR>
 " File tree browser showing current file - pipe (shift-backslash)
 map \|          :NERDTreeFind<CR>
 
-" CtrlP
-map <leader>f   :CtrlP<CR>
+" fzf
+let g:fzf_command_prefix = 'Fzf'
+map <leader>f :FzfFiles<CR>
 
 " NERDCommenter
 map <leader>/   <plug>NERDCommenterToggle

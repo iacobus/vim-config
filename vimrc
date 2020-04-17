@@ -13,8 +13,10 @@ Plugin 'tpope/vim-fugitive'
 Plugin 'vim-ruby/vim-ruby'
 Plugin 'tpope/vim-rails'
 Plugin 'vim-scripts/matchit.zip'
-Plugin 'ctrlpvim/ctrlp.vim'
-Plugin 'FelikZ/ctrlp-py-matcher'
+" fzf
+set rtp+=/usr/local/opt/fzf
+Plugin 'junegunn/fzf.vim'
+" END fzf
 Plugin 'mileszs/ack.vim'
 Plugin 'scrooloose/nerdcommenter'
 Plugin 'Vimjas/vim-python-pep8-indent'
