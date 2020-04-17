@@ -10,6 +10,9 @@ map \|          :NERDTreeFind<CR>
 let g:fzf_command_prefix = 'Fzf'
 map <leader>f :FzfFiles<CR>
 
+" Ack word under cursor
+map <leader>a :Ack <cword><CR>
+
 " NERDCommenter
 map <leader>/   <plug>NERDCommenterToggle
 
