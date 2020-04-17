@@ -20,6 +20,7 @@ Plugin 'junegunn/fzf.vim'
 Plugin 'mileszs/ack.vim'
 Plugin 'scrooloose/nerdcommenter'
 Plugin 'Vimjas/vim-python-pep8-indent'
+Plugin 'chriskempson/base16-vim'
 
 " All of your Plugins must be added before the following line
 call vundle#end()            " required
